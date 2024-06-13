@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(252, 251, 247);
+  width: 500px;
+  margin: 50px auto;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+
+#tatum {
+  width: 350px;
+  height: 250px;
+}
+
+.p2 {
+  color: black;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#mbappe {
+  height: 250px;
+}
+
+#p3 {
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: red;
+}
+
+#shai {
+  width: 350px;
+  height: 250px;
+}
+
+#p1 {
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(5, 214, 68);
+}
+
+#messi {
+  width: 340px;
+  height: 250px;
+}
+
+#ronaldo {
+  width: 340px;
+  height: 250px;
+}
+
+#p3 {
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(112, 14, 14);
+}
+
+#scoot {
+  width: 400px;
+  height: 250;
+}
+
+#shaedon {
+  width: 400px;
+}
